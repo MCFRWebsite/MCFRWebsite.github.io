@@ -46,7 +46,7 @@
 
 
   #footer {
-    background-color: #2f2f2f;
+    background-color: #000000;
     padding: 50px 0;
   }
 
@@ -66,7 +66,7 @@
   }
 
   a {
-    color: #000000;
+    color: #6b6b6b;
     text-decoration: none;
   }
 
