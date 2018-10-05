@@ -129,7 +129,8 @@
     font-weight: bold;
     font-size: 20px;
     background-color: darkgreen;
-   border-color: gray;
+    border-color: gray;
+    outline-color: gray;
   }
 
   .Investigation {
